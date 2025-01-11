@@ -1,2 +1,1 @@
-# Project2
-Fake news detector
+# fake-news-prediction
